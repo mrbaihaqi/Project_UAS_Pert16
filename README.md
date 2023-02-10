@@ -12,7 +12,7 @@
 Tugas ini dibuat untuk memenuhi syarat pada UAS
 
 ### Video Tutorial dan Demo Program Menampilkan Daftar Nilai Mahasiswa
-
+https://youtu.be/-Nz3jthr8fQ
 
 # UAS Bahasa Pemrograman
 
